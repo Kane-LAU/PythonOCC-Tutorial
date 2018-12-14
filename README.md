@@ -1,4 +1,4 @@
-# PythonOCC-Tutorial (English Version/chinese version(中文版))
+# PythonOCC-Tutorial (English Version/中文版)
 This tutorial will be used to illustrate the pythonocc with specific examples , and guide the fresh to learn it(from installation into learn basic functions)
 The guide will demonstrate the procress in detail so that everyone can follow it without interrupt 
 # About PythonOCC 
