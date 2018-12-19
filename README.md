@@ -30,3 +30,19 @@ pythonOCC是python语言构架的 3D CAD/CAE/PLM开发框架，它提供了如�
   - [1.2 PyCharm连接pythonOCC开发环境，并运行一个简单实例](https://github.com/liuxin2322/PythonOCC-Tutorial/blob/master/chinese%20version/simple%20introduction/pythonocc%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%EF%BC%9A2.PyCharm%E8%BF%9E%E6%8E%A5pythonOCC%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%EF%BC%8C%E5%B9%B6%E8%BF%90%E8%A1%8C%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E5%AE%9E%E4%BE%8B.md)
    - [1.3 创建属于自己的主界面及对话框及安装qtdesigner](https://github.com/liuxin2322/PythonOCC-Tutorial/blob/master/chinese%20version/simple%20introduction/pythonocc%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%EF%BC%9A3.%E5%88%9B%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%BB%E7%95%8C%E9%9D%A2%E5%8F%8A%E5%AF%B9%E8%AF%9D%E6%A1%86%E5%8F%8A%E5%AE%89%E8%A3%85qtdesigner.md)
   - [1.4 使用pyinstaller封装成exe文件](https://github.com/liuxin2322/PythonOCC-Tutorial/blob/master/chinese%20version/simple%20introduction/pythonocc%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%EF%BC%9A4.%E4%BD%BF%E7%94%A8pyinstaller%E5%B0%81%E8%A3%85%E6%88%90exe%E6%96%87%E4%BB%B6.md)
+  
+## 二、pythonocc基础使用
+**2.1 获取物体信息** 
+
+   - [2.1.1 读入iges，step，stl文件]()
+   - [2.1.2 提取曲线上的点位信息或者曲面上的点位信息]()
+   
+ **2.2 显示与交互** 
+ 
+   - [2.2.1 显示]()
+   - [2.2.2 交互]()
+   
+ ## 三、pythonocc函数一览
+ ## 四、pythonocc常见问题集锦
+   - [安装问题]()
+   - [其他问题]()
