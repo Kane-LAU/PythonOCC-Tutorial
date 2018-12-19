@@ -1,12 +1,12 @@
 # PythonOCC-Tutorial (English Version/中文版)
-This tutorial will be used to illustrate the pythonocc with specific examples , and guide the fresh to learn it(from installation into learn basic functions)
+This tutorial will be used to illustrate the pythonocc with specific examples , and guide the fresh to learn it(from installation to learning basic functions)
 The guide will demonstrate the procress in detail so that everyone can follow it without interrupt 
 # About PythonOCC 
 pythonocc is a python library whose purpose is to provide 3D modeling features. It is intended to developers who aim at developing CAD/PDM/PLM applications. it is developed by [tpaviot](https://github.com/tpaviot), you can check the original source from the channel or repo
 
 # why I write this?
-PythonOCC, i think, is a good open source for CAD/CAE/CAM designer. it is very easy to use owing to the characteristics of python.
- we should apperciate Tomes paviot, who provides us the tool to design our products. Unfornatunely, it is only provide us excellent tool but give us so limited guide(such as basic functions use). so i think the tutorial can compensate the weakening
+PythonOCC, i think, is a good open source for CAD/CAE/CAM designer. It is very easy to use owing to the characteristics of python.
+ we should appreciate Tomes paviot, who provided us the tool to design our products. Unfortunately, it  only provided us excellent tool but  so limited guide(such as installation,basic functions use). so i think the **tutorial** can compensate with the weakeness
  
  
  
@@ -19,7 +19,7 @@ PythonOCC, i think, is a good open source for CAD/CAE/CAM designer. it is very e
 pythonOCC是python语言构架的 3D CAD/CAE/PLM开发框架，它提供了如下功能： 复杂曲面的操作，信息转换（STEP,IGES,STL格式），用户界面可视化（基于wxpython库或者qt库），jupyter nootbook生成等。 他是由 [tpaviot](https://github.com/tpaviot)开发并发布的，你可以搜索pythonocc来搜索源代码
 
 # 为什么我写此教程?
-我认为PythonOCC是一个非常好的开源资源,对于那种想使用较少的代码实现cad/cae/cam程序的人非常友好 。但是不幸的事实是，目前pythonocc只是在发布，却并没有详尽的教程介绍它，虽然目前开发则更新了example，但是却有些杂乱，没有起到一个系统的教学的目的。该文档将细致地去解析pythonocc，去弥补它的缺点
+我认为PythonOCC是一个非常好的开源资源,对于那种想使用较少的代码实现cad/cae/cam程序的人非常友好 。但是不幸的事实是，目前pythonocc只是在发布，却并没有详尽的教程介绍它，虽然目前开发者更新了example，但是却有些杂乱，没有起到一个系统的教学的目的。该文档将细致地去解析pythonocc，去弥补它的缺点
 
 
 
