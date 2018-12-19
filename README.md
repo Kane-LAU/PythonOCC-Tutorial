@@ -26,4 +26,4 @@ pythonOCC是python语言构架的 3D CAD/CAE/PLM开发框架，它提供了如�
 
 ## 目录
 ### 1.pythonocc入门指导
-      1.1 [搭建pythonocc的虚拟开发环境](https://github.com/liuxin2322/PythonOCC-Tutorial/blob/master/chinese%20version/simple%20introduction/pythonocc%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%EF%BC%9A1.%E6%90%AD%E5%BB%BApythonocc%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
+       [1.1 搭建pythonocc的虚拟开发环境](https://github.com/liuxin2322/PythonOCC-Tutorial/blob/master/chinese%20version/simple%20introduction/pythonocc%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%EF%BC%9A1.%E6%90%AD%E5%BB%BApythonocc%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
