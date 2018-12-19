@@ -20,3 +20,10 @@ pythonOCC是python语言构架的 3D CAD/CAE/PLM开发框架，它提供了如�
 
 # 为什么我写此教程?
 我认为PythonOCC是一个非常好的开源资源,对于那种想使用较少的代码实现cad/cae/cam程序的人非常友好 。但是不幸的事实是，目前pythonocc只是在发布，却并没有详尽的教程介绍它，虽然目前开发则更新了example，但是却有些杂乱，没有起到一个系统的教学的目的。该文档将细致地去解析pythonocc，去弥补它的缺点
+
+
+
+
+## 目录
+### 1.pythonocc入门指导
+      1.1 [搭建pythonocc的虚拟开发环境](https://github.com/liuxin2322/PythonOCC-Tutorial/blob/master/chinese%20version/simple%20introduction/pythonocc%E5%85%A5%E9%97%A8%E6%8C%87%E5%AF%BC%EF%BC%9A1.%E6%90%AD%E5%BB%BApythonocc%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
